@@ -5,6 +5,8 @@
 ## Descripción
 Este sistema es una aplicación de escritorio desarrollada en **Java** que simula la operativa de un aeropuerto. Los usuarios pueden interactuar con una interfaz gráfica para gestionar todo el proceso de viaje, desde la consulta hasta el pago.
 
+Este proyecto fue desarrollado para la asignatura de **Entorno de Usuario (EU)** en la **Universitat de València** en 2021.
+
   ## Características
 * **Consulta de Vuelos:** Buscador de vuelos disponibles en tiempo real.
 * **Sistema de Reservas:** Selección de asientos y gestión de datos del pasajero.
@@ -12,7 +14,7 @@ Este sistema es una aplicación de escritorio desarrollada en **Java** que simul
 * **Interfaz Intuitiva:** Desarrollada con Swing.
 
 ## Tecnologías y Arquitectura
-* **Lenguaje:** Java ☕
+* **Lenguaje:** Java
 * **Interfaz:** Java Swing
 * **Patrón de Diseño:** MVC (Modelo-Vista-Controlador)
 
