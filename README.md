@@ -22,7 +22,7 @@ Este proyecto fue desarrollado para la asignatura de **Ingeniería del Software 
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/IvaanEscudero/Proyecto_Aeropuerto.git](https://github.com/IvaanEscudero/Proyecto_Aeropuerto.git)
+    git clone https://github.com/IvaanEscudero/Aeropuerto-Moon-Airways.git
     ```
 2.  **Ejecución rápida (Línea de comandos):**
     Ve a la carpeta `dist` del proyecto y ejecuta el archivo JAR:
