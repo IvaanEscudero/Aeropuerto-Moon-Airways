@@ -1,6 +1,8 @@
 # Aeropuerto-Moon-Airways - Sistema de Gestión de Vuelos
 
-![Logotipo del Aeropuerto](/src/Recursos/logo.jpeg) ## Descripción
+![Logotipo del Aeropuerto](/src/Recursos/logo.jpeg)
+
+## Descripción
 Este sistema es una aplicación de escritorio desarrollada en **Java** que simula la operativa de un aeropuerto. Los usuarios pueden interactuar con una interfaz gráfica para gestionar todo el proceso de viaje, desde la consulta hasta el pago.
 
   ## Características
